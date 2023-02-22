@@ -63,9 +63,9 @@ def read_latitude_longitude_database(file_path):
     return filter
 
 
-path_file_database = r'src\hmi\database.xlsx'
+# path_file_database = r'src\hmi\database.xlsx'
 
-rows = read_latitude_longitude_database(path_file_database)
+# rows = read_latitude_longitude_database(path_file_database)
 
-print(rows)
+# print(rows)
 
